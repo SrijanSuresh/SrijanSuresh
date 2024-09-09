@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijansuresh" alt="srijansuresh" /></a> </p>
 
-- 🔭 I’m currently working on **CarConnect**
+- 🔭 I’m currently working on **AI-DMV-Facility**
 
-- 🌱 I’m currently learning **AWS Cloud Services**
+- 🌱 I’m currently learning **AWS Cloud Services and Generative AI**
 
 - 📫 How to reach me **srijansuresh04@gmail.com**
 
