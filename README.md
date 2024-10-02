@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **AWS Cloud Services and Generative AI**
 
 - 📫 How to reach me **srijansuresh04@gmail.com**
-[![Chess Game](https://images.chesscomfiles.com/uploads/game-gifs/90px/blue/alpha/0/cc/0/0/bUMwS2d2NVFmSCFUbHQ5SWtzOCFlZzk4cHhXT0h5WkpibDNWZmVYSHlySkJsZjZTZndTcmlyN1pyekk5ZG1Cc2pzT0d6R1FHY3VZSWVkWlFta0h6dkt6cmtyR3I,.gif)](https://yourlinkhere.com)
+[![Chess Game](https://images.chesscomfiles.com/uploads/game-gifs/90px/blue/alpha/0/cc/0/0/bUMwS2d2NVFmSCFUbHQ5SWtzOCFlZzk4cHhXT0h5WkpibDNWZmVYSHlySkJsZjZTZndTcmlyN1pyekk5ZG1Cc2pzT0d6R1FHY3VZSWVkWlFta0h6dkt6cmtyR3I,.gif)](https://ssrijan.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
