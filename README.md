@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Srijan Suresh</h1>
-<h3 align="center">Former SWE Intern at ACT Inc., Researcher at University of Illinois at Chicago, MCS @ UIUC. Seeking for roles in Backend/Machine Learning Engineering</h3>
+<h1 align="center"> Hello there, I'm Srijan Suresh</h1>
+<h3 align="center"> MCS @ UIUC, Former SWE Intern at ACT Inc., Researcher at UIC-CSUN Lab. Seeking for roles in Backend/Machine Learning Engineering</h3>
 <h3 align="center"> Proficient in Fullstack, DevOps, Cloud Tech, LLM/Transformers, Machine Learning and Data Science</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijansuresh" alt="srijansuresh" /></a> </p>
