@@ -1,23 +1,111 @@
-<h1 align="center"> Hello there, I'm Srijan Suresh</h1>
-<h3 align="center"> MCS @ UIUC, Former SWE Intern at ACT Inc., Researcher at UIC-CSUN Lab. Seeking for roles in Backend/Machine Learning Engineering</h3>
-<h3 align="center"> Proficient in Fullstack, DevOps, Cloud Tech, LLM/Transformers, Machine Learning and Data Science</h2>
+<div align="center">
 
-- 🔭 I’m currently working on **AI-Instructed RPGM games**
-
-- 🌱 I’m currently learning **AWS Cloud Services and AI/ML Tech**
-
-- 📫 How to reach me **srijansuresh04@gmail.com**
-
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=SRIJAN+SURESH;game+dev+%7C+backend+%7C+ml+%2F+ai;every+move+is+deliberate.;the+endgame+is+always+engineered." alt="Typing SVG" />
 
 [![Chess Game](https://images.chesscomfiles.com/uploads/game-gifs/90px/blue/alpha/0/cc/0/0/bUMwS2d2NVFmSCFUbHQ5SWtzOCFlZzk4cHhXT0h5WkpibDNWZmVYSHlySkJsZjZTZndTcmlyN1pyekk5ZG1Cc2pzT0d6R1FHY3VZSWVkWlFta0h6dkt6cmtyR3I,.gif)](https://ssrijan.vercel.app/)
 
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srijan-suresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijansuresh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srijansuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srijansuresh" height="30" width="40" /></a>
-</p>
+![](https://img.shields.io/badge/%E2%99%9A_GAME__DEV-00ff9d?style=for-the-badge&labelColor=0a0a0f)
+![](https://img.shields.io/badge/%E2%99%9C_BACKEND-b44fff?style=for-the-badge&labelColor=0a0a0f)
+![](https://img.shields.io/badge/%E2%99%9B_ML_%2F_AI-00c8ff?style=for-the-badge&labelColor=0a0a0f)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <!-- Core Languages --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> <!-- Frontend --> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> </a> <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> </a> <!-- Backend --> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>  <!-- Databases --> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> <!-- Tools & Platforms --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> <!-- Cloud & AI/ML --> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/> </a> <a href="https://www.tensorflow.org/js" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow.js" width="40" height="40"/> </a> </p>
-<p>
+</div>
+
+---
+
+```bash
+~/SrijanSuresh $ cat bio.txt
+```
+
+> *Builder of **interactive worlds**, distributed systems, and intelligent machines.*  
+> *I think in **game loops**, architect in **microservices**, and train models that **actually ship**.*  
+> *Chess taught me that the best strategy isn't the one that's fastest — it's the one that's inevitable.*
+
+---
+
+## `// GITHUB STATS`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrijanSuresh&hide_border=true&background=0a0a0f&ring=00ff9d&fire=b44fff&currStreakLabel=00c8ff&sideLabels=888888&dates=444444&stroke=1a1a2e&currStreakNum=00ff9d&sideNums=b44fff" />
+
+</div>
+
+---
+## `// STACK`
+
+<div align="center">
+
+| Domain | Tools |
+|:---:|:---|
+| `♚  GAME DEV` | Unity · Unreal Engine · C++ · C# · GLSL |
+| `♜  BACKEND` | Python · Node.js · REST · gRPC · PostgreSQL · Docker · K8s |
+| `♛  ML / AI` | PyTorch · TensorFlow · Reinforcement Learning · CUDA |
+| `♟  TOOLING` | Git · CI/CD · Linux · Redis · Kafka |
+
+</div>
+
+---
+
+## `// CURRENT MATCH`
+
+```
+  ♟ [ACTIVE]   AI-driven game agent with RL policies
+  ♝ [ACTIVE]   High-throughput backend services at scale
+  ♛ [ACTIVE]   Neural net experiments — always a new opening
+```
+
+---
+
+## `// WEAPONS OF CHOICE`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00ff9d)
+![C++](https://img.shields.io/badge/C++-0a0a0f?style=for-the-badge&logo=cplusplus&logoColor=b44fff)
+![C#](https://img.shields.io/badge/C%23-0a0a0f?style=for-the-badge&logo=csharp&logoColor=00c8ff)
+![Unity](https://img.shields.io/badge/Unity-0a0a0f?style=for-the-badge&logo=unity&logoColor=00ff9d)
+![Unreal](https://img.shields.io/badge/Unreal-0a0a0f?style=for-the-badge&logo=unrealengine&logoColor=b44fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=for-the-badge&logo=pytorch&logoColor=00c8ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=00ff9d)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=nodedotjs&logoColor=b44fff)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=00c8ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=00ff9d)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0f?style=for-the-badge&logo=kubernetes&logoColor=b44fff)
+![CUDA](https://img.shields.io/badge/CUDA-0a0a0f?style=for-the-badge&logo=nvidia&logoColor=00c8ff)
+
+</div>
+
+---
+
+
+## `// OPENING THEORY`
+
+<div align="center">
+
+*"Every line of code is a calculated move.*  
+*Every system, an endgame to engineer."*
+
+`— SrijanSuresh`
+
+</div>
+
+---
+
+## `// CONNECT`
+
+> Open to collabs, game jams, research, and interesting problems.  
+> **Pick your piece. Make your move.**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-SrijanSuresh-0a0a0f?style=for-the-badge&logo=github&logoColor=00ff9d&labelColor=0a0a0f)](https://github.com/SrijanSuresh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=b44fff&labelColor=0a0a0f)](https://linkedin.com/in/srijan-suresh)
+[![Email](https://img.shields.io/badge/Email-reach__out-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00c8ff&labelColor=0a0a0f)](mailto:srijansuresh@gmail.com)
+
+<br/>
+
+`♟ ♙ ♟ ♙ ♟ ♙ ♟ ♙ ♟ ♙ ♟ ♙ ♟ ♙ ♟ ♙`
+
+</div>
