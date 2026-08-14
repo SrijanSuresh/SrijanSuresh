@@ -79,20 +79,6 @@
 
 ---
 
-
-## `// OPENING THEORY`
-
-<div align="center">
-
-*"Every line of code is a calculated move.*  
-*Every system, an endgame to engineer."*
-
-`— SrijanSuresh`
-
-</div>
-
----
-
 ## `// CONNECT`
 
 > Open to collabs, game jams, research, and interesting problems.  
