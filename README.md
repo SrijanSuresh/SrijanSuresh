@@ -51,11 +51,12 @@
 ## `// CURRENT MATCH`
 
 ```
-  ♟ [ACTIVE]   AI-driven game agent with RL policies
-  ♝ [ACTIVE]   High-throughput backend services at scale
-  ♛ [ACTIVE]   Neural net experiments — always a new opening
+  ♔ [MERGED]   Tiled CUDA transpose kernel in PyTorch's eager copy path (#194310)
+  ♞ [ACTIVE]   LLM-generated NPC dialogue injected live into Persona 5 Royal
+  ♜ [ACTIVE]   Distributed systems in Go: gossip, failure detection, membership
+  ♛ [ACTIVE]   ML compilers and GPU kernels, from tensor IR down to SASS
 ```
-
+> ♔ Merged into PyTorch: [tiled CUDA transpose kernel #194310](https://github.com/pytorch/pytorch/pull/194310)
 ---
 
 ## `// WEAPONS OF CHOICE`
