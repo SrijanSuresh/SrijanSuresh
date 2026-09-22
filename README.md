@@ -31,10 +31,14 @@
 
 | Domain | Tools |
 |:---:|:---|
-| `♚  GAME DEV` | Unity · Unreal Engine · C++ · C# · GLSL |
+| `♛  gpu` | CUDA, CUTLASS/CuTe, Triton, WMMA, Nsight Compute |
+| `♝  ml systems` | PyTorch internals (ATen), TensorFlow, ML compilers |
+| `♜  systems` | C++, Go, Python, gRPC, Linux, Slurm |
+| `♚  GAME DEV` | Unity · Unreal Engine · C# · GLSL |
 | `♜  BACKEND` | Python · Node.js · REST · gRPC · PostgreSQL · Docker · K8s |
 | `♛  ML / AI` | PyTorch · TensorFlow · Reinforcement Learning · CUDA |
-| `♟  TOOLING` | Git · CI/CD · Linux · Redis · Kafka |
+| `♟  TOOLING` | Git · CI/CD · Redis · Kafka |
+| `♞  also` | C#, Win32 API, Ghidra, Unity, React |
 
 </div>
 
