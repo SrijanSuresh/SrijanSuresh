@@ -1,14 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=SRIJAN+SURESH;game+dev+%7C+backend+%7C+ml+%2F+ai;every+move+is+deliberate.;the+endgame+is+always+engineered." alt="Typing SVG" />
-
-[![Chess Game](https://images.chesscomfiles.com/uploads/game-gifs/90px/blue/alpha/0/cc/0/0/bUMwS2d2NVFmSCFUbHQ5SWtzOCFlZzk4cHhXT0h5WkpibDNWZmVYSHlySkJsZjZTZndTcmlyN1pyekk5ZG1Cc2pzT0d6R1FHY3VZSWVkWlFta0h6dkt6cmtyR3I,.gif)](https://ssrijan.vercel.app/)
-
-<br/>
-
-![](https://img.shields.io/badge/%E2%99%9A_GAME__DEV-00ff9d?style=for-the-badge&labelColor=0a0a0f)
-![](https://img.shields.io/badge/%E2%99%9C_BACKEND-b44fff?style=for-the-badge&labelColor=0a0a0f)
-![](https://img.shields.io/badge/%E2%99%9B_ML_%2F_AI-00c8ff?style=for-the-badge&labelColor=0a0a0f)
+  <img src="./header.svg" width="100%" alt="Srijan Suresh" />
 
 </div>
 
